@@ -1,0 +1,15 @@
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+
+.form {
+    justify-content: center;
+    padding: 24px;
+}
+
+#telefone {
+    margin-bottom: 16px;
+}
